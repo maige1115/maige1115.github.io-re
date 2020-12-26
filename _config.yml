@@ -48,6 +48,10 @@ sitemap: true
 # If you want to change site language, you can set lang option
 # lang: "ko"  # default lang is en
 
+   home:
+     heading: "Your awesomeassssss heading"
+     subheading: "Your awesome subheading"
+
 # You can choose a theme color
 # Default theme colors as below:
 # coolblack: #090a0b
