@@ -46,7 +46,7 @@ enableDNT: "false"
 sitemap: true
 
 # If you want to change site language, you can set lang option
- lang: "ko"  # default lang is en
+# lang: "ko"  # default lang is en
 
 # You can choose a theme color
 # Default theme colors as below:
