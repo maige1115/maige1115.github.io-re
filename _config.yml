@@ -43,22 +43,22 @@ yat:
   date_format: "%b %d, %Y"
 
 # If you want more debug log, you can set true
-# debug: false
+ debug: false
 
 # If you don't want transparent header, you can set false
-# header_transparent: true
+ header_transparent: true
 
-# Google analytics
-# google_analytics: [Tracking ID]
+ Google analytics
+ google_analytics: [Tracking ID]
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+ sitemap: false
 
 # If you want to change site language, you can set lang option
  lang: "en"  # default lang is en
 
 # Translate languges
-# langs refer to https://cloud.google.com/translate/docs/languages
+ langs refer to https://cloud.google.com/translate/docs/languages
  translate_langs:
    - lang: en
      text: English
@@ -124,16 +124,16 @@ yat:
  paginate: 5
 
 # Disqus comments
-# disqus:
-#   shortname: "Your Disqus username"
+ disqus:
+   shortname: "Your Disqus username"
 
 # Gitment comments
-# gitment:
-#   username: "Your GitHub username"
-#   repo: "The repo to store comments"
-#   client_id: "Your client ID"
-#   client_secret: "Your client secret"
-#   redirect_uri: "Your redirect url"   # If you use a custom domain name
+ gitment:
+   username: "Your GitHub username"
+   repo: "The repo to store comments"
+   client_id: "Your client ID"
+   client_secret: "Your client secret"
+   redirect_uri: "Your redirect url"   # If you use a custom domain name
 
 # Build settings
  highlighter: none
