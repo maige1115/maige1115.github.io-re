@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jeffrey Tse's Blog
-email: jeffreytse.mail@gmail.com
-author: jeffreytse
+title: 신지민
+email: maige1115@gmail.com
+author: 중앙로 
 copyright: Copyright © 2008-2020
 description: >- # this means to ignore newlines until "baseurl:"
   This is a very personal blog. I don't write blogs for anyone, but
@@ -39,7 +39,7 @@ yat:
 # header_transparent: false
 
 # Google analytics
-google_analytics: "UA-96513476-2"
+google_analytics: ""
 enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
