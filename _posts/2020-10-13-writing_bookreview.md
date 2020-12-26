@@ -3,7 +3,7 @@ layout: post
 title: 서평 쓰는 법을 읽었는데 서평을 쓸 수 없다
 subheading: 서평 쓰는 법, 이원석, 유유
 author: 중앙로 소시민
-categories: bookreview
+categories: Bookreview
 tags: [책, 서평]
 ---
 1<br>
