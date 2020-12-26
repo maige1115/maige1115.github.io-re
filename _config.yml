@@ -16,7 +16,7 @@
 title: 공부하는 삶
 email: maige1115@gmail.com
 author: 중앙로 소시민
-copyright: Copyright © 2008-2020
+copyright: Copyright © 2020
 description: >- # this means to ignore newlines until "baseurl:"
   This is a very personal blog. I don't write blogs for anyone, but
   just record what I do or what I think. So there are many things
@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   share knowledge and thoughts rather than criticism. It will be
   great help if you give and teach your knowledge and thoughts to me.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://maige1115.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://log.maige.kr" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/favicon.jpg" # the favicon for your site
 
 # Yat date format
@@ -39,7 +39,7 @@ yat:
 # header_transparent: false
 
 # Google analytics
-google_analytics: ""
+google_analytics: "G-9C1P0HHLQE"
 enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
