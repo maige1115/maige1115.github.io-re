@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 나만의 지식체계 구성하기
-subheading: zettelkasten식 지식정리
+subtitle: zettelkasten식 지식정리
 author: 중앙로 소시민
 categories: Study
 tags: [공부, zettelkasten]

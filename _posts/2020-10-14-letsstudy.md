@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 공부합시다
-subheading: 공부란 무엇인가, 김영민, 어크로스
+subtitle: 공부란 무엇인가, 김영민, 어크로스
 author: 중앙로 소시민
 categories: Bookreview
 tags: [책, 독서법, 공부]
+sidebar: []
 ---
 
 책을 읽다보면 어떤 책은 뇌가 간질간질한 느낌을 준다. 그런 책을 읽고 나면 '아! 잘 읽었다'라는 생각을 하게 되는데 물론 흔한 경우는 아니다.
