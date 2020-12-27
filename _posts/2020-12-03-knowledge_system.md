@@ -5,6 +5,7 @@ subtitle: zettelkasten식 지식정리
 author: 중앙로 소시민
 categories: Study
 tags: [공부, zettelkasten]
+comments: true
 ---
 
 ### 왜 나만의 지식체계를 구성해야 하는가

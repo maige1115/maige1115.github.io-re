@@ -74,7 +74,7 @@ paginate: 5
 
 # Disqus comments
 disqus:
-  shortname: ""
+  shortname: "blog1115"
 
 # Gitment comments
 # gitment:

@@ -6,6 +6,7 @@ author: 중앙로 소시민
 categories: Bookreview
 tags: [공부, 서평]
 sidebar: []
+comments: true
 ---
 
 다시 이 질문이다.
