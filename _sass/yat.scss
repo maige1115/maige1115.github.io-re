@@ -32,7 +32,7 @@ $footer-background-color: darken($theme-color, 5%) !default;
 
 $banner-height: 640px !default;
 $banner-text-color: invert($theme-color) !default;
-$banner-background: $theme-color !default;
+$banner-background: transparent;
 
 // Width of the content area
 $content-width:    920px !default;
