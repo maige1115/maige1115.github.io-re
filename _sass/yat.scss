@@ -31,8 +31,8 @@ $footer-text-color: lighten(invert($theme-color), 25%) !default;
 $footer-background-color: darken($theme-color, 5%) !default;
 
 $banner-height: 640px !default;
-$banner-text-color: lighten(invert($theme-color), 25%) !default;
-$banner-background: rgba(255,255,255,255) !default;
+$banner-text-color: invert($theme-color) !default;
+$banner-background: invert($theme-color) !default;
 
 // Width of the content area
 $content-width:    920px !default;
