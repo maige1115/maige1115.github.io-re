@@ -97,3 +97,5 @@ plugins:
   - jekyll-remote-theme
   
 encoding: "utf-8"
+
+night_mode: "manual"
