@@ -1,6 +1,8 @@
 ---
 layout: about
 title: About
+comments: false
+sidebar: []
 ---
 
 ## 안녕하세요?
