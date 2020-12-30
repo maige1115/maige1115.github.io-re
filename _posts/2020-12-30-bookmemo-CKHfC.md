@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 독서일지-주대환의 시민을 위한 한국현대사
-subtitle: OKR 프레임으로 한 해를 준비하다.
 author: 중앙로 소시민
 categories: Bookmemo
 tags: [한국사, 독서기록]
