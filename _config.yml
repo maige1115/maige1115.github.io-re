@@ -64,7 +64,7 @@ theme_color: snowwhite
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.html
-  - memo/index.md
+  - /memo/index.md
   - archives.html
   - categories.html
   - tags.html
