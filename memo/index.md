@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memo
+title: about
 comments: false
 sidebar: []
 ---
