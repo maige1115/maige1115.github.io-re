@@ -25,7 +25,8 @@ sidebar: []
 <br>
 
 **북저널리즘 컨텐츠**
-* 운동은 우리를 구원하는가 - 바이바 크레건 리드, 가디언
+* [운동은 우리를 구원하는가](https://www.bookjournalism.com/books/6131) - 바이바 크레건 리드, 가디언
+* [산업 대전환](https://www.bookjournalism.com/books/30142) - 이종구, 북저널리즘
 <br>
 <br>
 
