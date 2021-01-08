@@ -19,19 +19,23 @@ sidebar: []
 <br>
 
 **정책연구서**
+정책연구서에 대한 리뷰는 [여기](/memo/ResearchJournal/Research-Journal2021)를 참고하세요.
+
 * 게스트하우스 제도 도입에 관한 연구 - 유지윤, 한국문화관광연구원
 * 조 바이든(Joe Biden)의 정책공약과 지방정부의 함의 - 임태경, 한국지방행정연구원
 <br>
 <br>
 
 **북저널리즘 컨텐츠**
+북저널리즘 컨텐츠에 대한 리뷰는 [여기](/memo/bookjournalism/bookjournalism-2021)를 참고하세요.
+
 * [운동은 우리를 구원하는가](https://www.bookjournalism.com/books/6131) - 바이바 크레건 리드, 가디언
 * [산업 대전환](https://www.bookjournalism.com/books/30142) - 이종구, 북저널리즘
 <br>
 <br>
 
 ### 기록하기
-기록의 중요성을 깨달았습니다. 여기에는 주로 서평과 공부에 관한 글을 올려요. 포함하여 다른 기록들은 [이 곳](https://publish.obsidian.md/maige)에 게시합니다.
+기록의 중요성을 깨달았습니다. 다양하게 기록하려고 노력중입니다.
 <br>
 
 **쓴 글(2021년)**
