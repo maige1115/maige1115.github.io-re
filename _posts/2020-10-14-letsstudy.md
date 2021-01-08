@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 공부합시다
-subtitle: 공부란 무엇인가, 김영민, 어크로스
+title: 공부란 무엇인가 - 김영민, 어크로스
+subtitle: 공부합시다
 author: 중앙로 소시민
 categories: Bookreview
 tags: [책, 독서법, 공부]

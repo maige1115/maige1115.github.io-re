@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 어떻게 읽을 것인가
-subtitle: 책 읽는 법, 김이경, 유유
+title: 책 읽는 법 - 김이경, 유유
+subtitle: 어떻게 읽을 것인가
 author: 중앙로 소시민
 categories: Bookreview
 tags: [책, 독서법]

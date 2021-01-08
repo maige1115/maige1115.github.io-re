@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 나를 빼놓고 하는 공부가 공부일까
-subtitle: 공부공부, 엄기호, 따비
+title: 공부공부 - 엄기호, 따비
+subtitle: 나를 빼놓고 하는 공부가 공부일까 
 author: 중앙로 소시민
 categories: Bookreview
 tags: [공부, 서평]
