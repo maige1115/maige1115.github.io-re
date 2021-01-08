@@ -3,7 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: about
-title: 안녕하세요?
+title: Home
+heading: '공부하는 삶'
+subheading: '읽고 기록하며 공부합니다.'
 comments: false
 sidebar: []
 banner: "/assets/images/banners/home.jpg"
