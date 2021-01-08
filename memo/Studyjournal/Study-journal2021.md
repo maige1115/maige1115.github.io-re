@@ -2,6 +2,7 @@
 layout: default
 title: 공부일지-2021년
 comments: false
+sidebar: true
 ---
 ## 공부일지-2021년
 ### 2020-01-01(금)

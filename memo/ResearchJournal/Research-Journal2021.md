@@ -2,6 +2,7 @@
 layout: default
 title: 정책연구서일지-2021년
 comments: false
+sidebar: true
 ---
 ## 정책연구서일지-2021년
 ### 2020-01-03(일)

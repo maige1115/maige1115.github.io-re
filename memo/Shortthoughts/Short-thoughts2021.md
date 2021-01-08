@@ -2,6 +2,7 @@
 layout: default
 title: 단상-2021년
 comments: false
+sidebar: true
 ---
 ## 단상-2021년
 ### 2021-01-01(금)
