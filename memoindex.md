@@ -12,3 +12,5 @@ sidebar: []
 
 * [정책연구서일지-2021년](/memo/ResearchJournal/Research-Journal2021)
 
+* [북저널리즘일지-2021년](/memo/bookjournalism/bookjournalism-2021)
+
