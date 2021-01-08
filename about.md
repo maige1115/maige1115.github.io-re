@@ -3,6 +3,7 @@ layout: about
 title: About
 comments: false
 sidebar: []
+banner: "/assets/images/banners/home.jpg"
 ---
 
 ## 안녕하세요? 중앙로 소시민입니다.
@@ -19,6 +20,7 @@ sidebar: []
 <br>
 
 **정책연구서**
+
 정책연구서에 대한 리뷰는 [여기](/memo/ResearchJournal/Research-Journal2021)를 참고하세요.
 
 * 게스트하우스 제도 도입에 관한 연구 - 유지윤, 한국문화관광연구원
@@ -27,6 +29,7 @@ sidebar: []
 <br>
 
 **북저널리즘 컨텐츠**
+
 북저널리즘 컨텐츠에 대한 리뷰는 [여기](/memo/bookjournalism/bookjournalism-2021)를 참고하세요.
 
 * [운동은 우리를 구원하는가](https://www.bookjournalism.com/books/6131) - 바이바 크레건 리드, 가디언
