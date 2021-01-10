@@ -37,8 +37,9 @@ banner: "/assets/images/banners/home.jpg"
 
 #### 북저널리즘 컨텐츠
 
-* [운동은 우리를 구원하는가](https://www.bookjournalism.com/books/6131) - 바이바 크레건 리드, 가디언
+* [운동은 우리를 구원하는가](https://www.bookjournalism.com/books/6131) - 바이바 크레건 리드, 가디언 
 * [산업 대전환](https://www.bookjournalism.com/books/30142) - 이종구, 북저널리즘
+* [원격근무의 기술](https://www.bookjournalism.com/books/30508) - 북저널리즘
 <br>
 <br>
 
@@ -48,3 +49,5 @@ banner: "/assets/images/banners/home.jpg"
 
 ### 쓴 글(2021년)
 * [주대환의 시민을 위한 한국 현대사 리뷰](https://log.maige.kr/bookreview/2021/01/09/book-ckhc)
+* [북저널리즘 - 산업대전환 리뷰](https://log.maige.kr/bookjournalism/2021/01/07/bj-Industrial_transformation)
+* [북저널리즘 - 원격근무의 기술 리뷰](https://log.maige.kr/bookjournalism/2021/01/09/bj-Remote_work_skills)

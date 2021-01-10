@@ -29,7 +29,9 @@ comments: true
 <br>
 
 * [원격근무의 기술](https://www.bookjournalism.com/books/30508) - 북저널리즘
+<br>
+<br>
 
-[^1]: 나도 올해 목표를 OKR로 했다. [[2021년 계획을 세우다(with OKR)]]를 참고하자
+[^1]: 나도 올해 목표를 OKR로 했다. [2021년 계획을 세우다](https://log.maige.kr/study/2020/12/24/2021okr)를 참고하자
 
 
