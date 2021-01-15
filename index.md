@@ -20,7 +20,8 @@ banner: "/assets/images/banners/home.jpg"
 
 ### 읽은 것들
 #### 책
-* 주대환의 시민을 위한 한국 현대사 - 주대환, 나무나무
+* [주대환의 시민을 위한 한국 현대사](http://aladin.kr/p/yof6y) - 주대환, 나무나무
+* [타락한 저항](http://aladin.kr/p/UetSf) - 이라영, 교유서가
 <br>
 <br>
 
@@ -40,6 +41,7 @@ banner: "/assets/images/banners/home.jpg"
 * [운동은 우리를 구원하는가](https://www.bookjournalism.com/books/6131) - 바이바 크레건 리드, 가디언 
 * [산업 대전환](https://www.bookjournalism.com/books/30142) - 이종구, 북저널리즘
 * [원격근무의 기술](https://www.bookjournalism.com/books/30508) - 북저널리즘
+* [미디어 저자; 기획하고, 연결하라](https://www.bookjournalism.com/books/9252) - 박세혁, 북저널리즘
 <br>
 <br>
 
