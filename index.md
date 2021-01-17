@@ -33,6 +33,7 @@ banner: "/assets/images/banners/home.jpg"
 * [조 바이든(Joe Biden)의 정책공약과 지방정부의 함의](https://www.krila.re.kr/publication/periodical/brief/110?keyword=&page=1) - 임태경, 한국지방행정연구원
 * [코로나19가 문화예술분야에 미친 영향 및 정책대응방안 연구](https://www.kcti.re.kr/web/board/boardContentsView.do?miv_pageNo=&miv_pageSize=&total_cnt=&LISTOP=&mode=W&contents_id=42baca68e7324988b05837899cb223e4&board_id=2&report_start_year=&cate_id=&etc10=&searchkey=ALL&searchtxt=&link_g_topmenu_id=&link_g_submenu_id=&link_g_homepage=F) - 양혜원외 4명, 한국문화관광연구원
 * [지역사랑상품권의 지역경제 활성화 효과 분석](https://www.krila.re.kr/publication/periodical/brief/111?keyword=&page=1) - 여효성, 지방행정연구원
+* [오버투어리즘으로 인한 지역공동체 갈등 해결 사례연구](https://krihs.re.kr/issue/issueWorkPaperView.do?&seq=221) - 안소현, 국토연구원
 <br>
 <br>
 
