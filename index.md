@@ -15,6 +15,9 @@ banner: "/assets/images/banners/home.jpg"
 8년차 직장인입니다. 읽고 기록하며 공부하는 삶을 살고자 합니다. 여기에는 그 결과물들을 게시하고 있습니다.
 <br>
 
+## 최근에는 이런 생각들을 하며 삽니다.
+[단상 - 2021](https://log.maige.kr/memo/Shortthoughts/Short-thoughts2021)
+
 ## 읽기
 책을 주로 읽고 [북저널리즘](https://www.bookjournalism.com/)을 구독하면서 요즘 이슈에 대한 감각을 놓치지 않으려고 합니다. 
 
