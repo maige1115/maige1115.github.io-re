@@ -47,6 +47,7 @@ banner: "/assets/images/banners/home.jpg"
 * [산업 대전환](https://www.bookjournalism.com/books/30142) - 이종구, 북저널리즘
 * [원격근무의 기술](https://www.bookjournalism.com/books/30508) - 북저널리즘
 * [미디어 저자; 기획하고, 연결하라](https://www.bookjournalism.com/books/9252) - 박세혁, 북저널리즘
+* [중국의 아홉가지 협상 기술](https://www.bookjournalism.com/books/31851) - 연상모, 북저널리즘
 <br>
 <br>
 
@@ -59,3 +60,4 @@ banner: "/assets/images/banners/home.jpg"
 * [북저널리즘 - 산업대전환 리뷰](https://log.maige.kr/bookjournalism/2021/01/07/bj-Industrial_transformation)
 * [북저널리즘 - 원격근무의 기술 리뷰](https://log.maige.kr/bookjournalism/2021/01/09/bj-Remote_work_skills)
 * [북저널리즘 - 미디어 저자 리뷰](https://log.maige.kr/bookjournalism/2021/01/17/bj-Media_author.html)
+* [북저널리즘 - 중국의 아홉가지 협상 기술 리뷰](https://log.maige.kr/bookjournalism/2021/01/25/bj-Chinas_negotiation_skils.html)
