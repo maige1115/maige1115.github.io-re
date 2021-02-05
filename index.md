@@ -37,6 +37,7 @@ banner: "/assets/images/banners/home.jpg"
 * [코로나19가 문화예술분야에 미친 영향 및 정책대응방안 연구](https://www.kcti.re.kr/web/board/boardContentsView.do?miv_pageNo=&miv_pageSize=&total_cnt=&LISTOP=&mode=W&contents_id=42baca68e7324988b05837899cb223e4&board_id=2&report_start_year=&cate_id=&etc10=&searchkey=ALL&searchtxt=&link_g_topmenu_id=&link_g_submenu_id=&link_g_homepage=F) - 양혜원외 4명, 한국문화관광연구원
 * [지역사랑상품권의 지역경제 활성화 효과 분석](https://www.krila.re.kr/publication/periodical/brief/111?keyword=&page=1) - 여효성, 지방행정연구원
 * [오버투어리즘으로 인한 지역공동체 갈등 해결 사례연구](https://krihs.re.kr/issue/issueWorkPaperView.do?&seq=221) - 안소현, 국토연구원
+* [인구구조 변화에 따른 국내관광 정책방향](https://www.kcti.re.kr/web/board/boardContentsView.do?miv_pageNo=1&miv_pageSize=&total_cnt=&LISTOP=&mode=W&contents_id=0b6f4f94d5654935a6f2ee498c84be69&board_id=2&report_start_year=&cate_id=160bcb16c21d471a9509cf3a41cb70e0&etc10=&searchkey=ALL&searchtxt=&link_g_topmenu_id=15f51238586a425981abe0b5f685d43a&link_g_submenu_id=0382ccddbde44a91bd57a705ed56aade&link_g_homepage=F) - 김현주외 2명, 한국문화관광연구원
 <br>
 <br>
 
@@ -57,3 +58,4 @@ banner: "/assets/images/banners/home.jpg"
 * [주대환의 시민을 위한 한국 현대사 리뷰](https://log.maige.kr/bookreview/2021/01/09/book-ckhc)
 * [북저널리즘 - 산업대전환 리뷰](https://log.maige.kr/bookjournalism/2021/01/07/bj-Industrial_transformation)
 * [북저널리즘 - 원격근무의 기술 리뷰](https://log.maige.kr/bookjournalism/2021/01/09/bj-Remote_work_skills)
+* [북저널리즘 - 미디어 저자 리뷰](https://log.maige.kr/bookjournalism/2021/01/17/bj-Media_author.html)
