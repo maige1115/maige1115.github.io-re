@@ -25,6 +25,7 @@ banner: "/assets/images/banners/home.jpg"
 #### 책
 * [주대환의 시민을 위한 한국 현대사](http://aladin.kr/p/yof6y) - 주대환, 나무나무
 * [타락한 저항](http://aladin.kr/p/UetSf) - 이라영, 교유서가
+* [현의 노래](http://aladin.kr/p/GFAhg) - 김훈, 문학동네
 <br>
 <br>
 
@@ -61,3 +62,4 @@ banner: "/assets/images/banners/home.jpg"
 * [북저널리즘 - 원격근무의 기술 리뷰](https://log.maige.kr/bookjournalism/2021/01/09/bj-Remote_work_skills)
 * [북저널리즘 - 미디어 저자 리뷰](https://log.maige.kr/bookjournalism/2021/01/17/bj-Media_author.html)
 * [북저널리즘 - 중국의 아홉가지 협상 기술 리뷰](https://log.maige.kr/bookjournalism/2021/01/25/bj-Chinas_negotiation_skils.html)
+* [공부하는 삶 2021년 1월호](https://log.maige.kr/study/2021/02/06/studylife202101.html)
