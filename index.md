@@ -12,11 +12,8 @@ banner: "/assets/images/banners/home.jpg"
 ---
 
 ## 안녕하세요? 중앙로 소시민입니다.
-8년차 직장인입니다. 읽고 기록하며 공부하는 삶을 살고자 합니다. 여기에는 그 결과물들을 게시하고 있습니다.
+읽고 기록하며 공부하는 삶을 살고자 합니다. 여기에는 그 결과물들을 게시하고 있습니다.
 <br>
-
-## 최근에는 이런 생각들을 하며 삽니다.
-[단상 - 2021](https://log.maige.kr/memo/Shortthoughts/Short-thoughts2021)
 
 ## 읽기
 책을 주로 읽고 [북저널리즘](https://www.bookjournalism.com/)을 구독하면서 요즘 이슈에 대한 감각을 놓치지 않으려고 합니다. 
@@ -30,9 +27,6 @@ banner: "/assets/images/banners/home.jpg"
 <br>
 
 #### 정책연구서
-
-정책연구서에 대한 리뷰는 [여기](/memo/ResearchJournal/Research-Journal2021)를 참고하세요.
-
 * [게스트하우스 제도 도입에 관한 연구](https://www.kcti.re.kr/web/board/boardContentsView.do?miv_pageNo=1&miv_pageSize=&total_cnt=&LISTOP=&mode=W&contents_id=5e7e7076ee0c4442bb08b4439e50a4b7&board_id=2&report_start_year=&cate_id=&etc10=&searchkey=ALL&searchtxt=&link_g_topmenu_id=&link_g_submenu_id=&link_g_homepage=F) - 유지윤, 한국문화관광연구원
 * [조 바이든(Joe Biden)의 정책공약과 지방정부의 함의](https://www.krila.re.kr/publication/periodical/brief/110?keyword=&page=1) - 임태경, 한국지방행정연구원
 * [코로나19가 문화예술분야에 미친 영향 및 정책대응방안 연구](https://www.kcti.re.kr/web/board/boardContentsView.do?miv_pageNo=&miv_pageSize=&total_cnt=&LISTOP=&mode=W&contents_id=42baca68e7324988b05837899cb223e4&board_id=2&report_start_year=&cate_id=&etc10=&searchkey=ALL&searchtxt=&link_g_topmenu_id=&link_g_submenu_id=&link_g_homepage=F) - 양혜원외 4명, 한국문화관광연구원
@@ -43,7 +37,6 @@ banner: "/assets/images/banners/home.jpg"
 <br>
 
 #### 북저널리즘 컨텐츠
-
 * [운동은 우리를 구원하는가](https://www.bookjournalism.com/books/6131) - 바이바 크레건 리드, 가디언 
 * [산업 대전환](https://www.bookjournalism.com/books/30142) - 이종구, 북저널리즘
 * [원격근무의 기술](https://www.bookjournalism.com/books/30508) - 북저널리즘
@@ -57,9 +50,11 @@ banner: "/assets/images/banners/home.jpg"
 <br>
 
 ### 쓴 글(2021년)
-* [주대환의 시민을 위한 한국 현대사 리뷰](https://log.maige.kr/bookreview/2021/01/09/book-ckhc)
-* [북저널리즘 - 산업대전환 리뷰](https://log.maige.kr/bookjournalism/2021/01/07/bj-Industrial_transformation)
-* [북저널리즘 - 원격근무의 기술 리뷰](https://log.maige.kr/bookjournalism/2021/01/09/bj-Remote_work_skills)
-* [북저널리즘 - 미디어 저자 리뷰](https://log.maige.kr/bookjournalism/2021/01/17/bj-Media_author.html)
-* [북저널리즘 - 중국의 아홉가지 협상 기술 리뷰](https://log.maige.kr/bookjournalism/2021/01/25/bj-Chinas_negotiation_skils.html)
+* [책 리뷰 - 주대환의 시민을 위한 한국 현대사](https://log.maige.kr/bookreview/2021/01/09/book-ckhc)
+* [북저널리즘 리뷰 - 산업대전환](https://log.maige.kr/bookjournalism/2021/01/07/bj-Industrial_transformation)
+* [북저널리즘 리뷰 - 원격근무의 기술](https://log.maige.kr/bookjournalism/2021/01/09/bj-Remote_work_skills)
+* [북저널리즘 리뷰 - 미디어 저자](https://log.maige.kr/bookjournalism/2021/01/17/bj-Media_author.html)
+* [북저널리즘 리뷰 - 중국의 아홉가지 협상 기술](https://log.maige.kr/bookjournalism/2021/01/25/bj-Chinas_negotiation_skils.html)
 * [공부하는 삶 2021년 1월호](https://log.maige.kr/study/2021/02/06/studylife202101.html)
+* [북저널리즘 리뷰 - 후지필름, 리딩 브랜드의 생존전략](https://log.maige.kr/bookjournalism/2021/02/07/bj-fujifilm.html)
+* [북저널리즘 - 디지털 탐구생활](https://log.maige.kr/bookjournalism/2021/02/15/bj-digitallife.html)
